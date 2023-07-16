@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'TheWinner\'s Blog',
-  domain: 'winners-blog.vercel.com',
+  domain: 'winners-blog.vercel.app',
   author: 'TheWinner',
 
   // open graph metadata (optional)
-  description: 'This is my blog',
+  description: 'This is my blog lol',
 
   // social usernames (optional)
   twitter: 'thewinner958',
